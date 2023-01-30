@@ -1,0 +1,4 @@
+baseURL = 'https://gadolinium.dev/'
+languageCode = 'en-us'
+title = 'Gadolinium - Nintendo 64 emulator'
+theme = 'terminal'
